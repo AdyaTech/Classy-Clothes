@@ -1,5 +1,5 @@
 # Classy Clothes
-This project is a full stack e-commerce website built using MERN Stack. 
+This project is  full stack e-commerce website built using MERN Stack. 
 
 ## Table of contents
 
